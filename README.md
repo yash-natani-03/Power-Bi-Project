@@ -89,5 +89,12 @@ The project covers 6 key dashboards, each designed to provide different layers o
 
 ---
 
+## 🚧 Known Limitations
+Data is assumed/simulated for educational purposes.
+
+Party logos and color codes may be approximated.
+
+
+
 
 
