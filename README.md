@@ -1,4 +1,4 @@
-# 🇮🇳 India General Election 2024 Dashboard (Power BI Project)
+# India General Election 2024 Dashboard (Power BI Project)
 
 > **Created By**: Yash Natani  
 > **Tool Used**: Microsoft Power BI  
