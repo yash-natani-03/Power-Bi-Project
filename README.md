@@ -72,7 +72,7 @@ The project covers 6 key dashboards, each designed to provide different layers o
 
 ## 🔧 How to Use
 
-1. Open the file: `Election_project.pbix` using **Power BI Desktop**.
+1. Open the file: `Election_project.pbix = https://github.com/yash-natani-03/Power-Bi-Project/blob/main/Election%20_project.pbix using' **Power BI Desktop**.
 2. Explore via the **Landing Page** or individual dashboards.
 3. Hover, click, or filter to reveal deeper insights.
 4. Export data from the "Details Grid" as needed.
