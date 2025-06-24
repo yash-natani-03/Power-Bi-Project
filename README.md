@@ -50,7 +50,7 @@ The project covers 6 key dashboards, each designed to provide different layers o
   - Vote Shares and Margins
 
 ### 📊 5. Details Grid (Raw Data Explorer)
-
+![Screenshot 2025-06-24 225752](https://github.com/user-attachments/assets/559bc44d-da12-4871-8560-6303a29daae5)
 - Tabular view of:
   - Constituency-wise results
   - Candidate and party information
@@ -92,9 +92,8 @@ The project covers 6 key dashboards, each designed to provide different layers o
 - DAX (Data Analysis Expressions)
 - Interactive Charts, Maps, Bookmarks & Drill-through
 
----
 
-## 📷 Screenshots
+---
 
 
 
