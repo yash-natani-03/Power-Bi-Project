@@ -1,10 +1,4 @@
 # India General Election 2024 Dashboard (Power BI Project)
-
-> **Created By**: Yash Natani  
-> **Tool Used**: Microsoft Power BI  
-> **Dataset Source**: Simulated dataset based on the 2024 General Elections scenario  
-> **Project Goal**: To build an interactive Power BI dashboard providing multi-level analysis of India’s 2024 General Election results.
-
 ---
 
 ## 📌 Project Objective
