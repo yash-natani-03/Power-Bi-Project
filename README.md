@@ -18,6 +18,7 @@ The goal of this Power BI project is to visually analyze the **2024 India Genera
 The project covers 6 key dashboards, each designed to provide different layers of election analysis:
 
 ### 🧮 1. Overview Analysis
+- ![Screenshot 2025-06-24 224825](https://github.com/user-attachments/assets/c5b4a996-fc68-4043-8cb0-d661de5ad9e0)
 - Total seats and percentages won by:
   - NDA Alliance
   - I.N.D.I.A. Alliance
@@ -25,12 +26,14 @@ The project covers 6 key dashboards, each designed to provide different layers o
 - Grid matrix showing detailed seat-level performance per alliance.
 
 ### 🗺️ 2. State Demographic Analysis
+![Screenshot 2025-06-24 224834](https://github.com/user-attachments/assets/8f72cb38-4bc7-4824-8271-049511833a43)
 - Total Seats by State
 - Alliance with majority seats in each state
 - Winning Candidate & Party by Constituency (with vote margins)
 - Color-coded map and drill-down tables for each state
 
 ### 🏛️ 3. Political Landscape by State
+![Screenshot 2025-06-24 224842](https://github.com/user-attachments/assets/d7d072df-7198-43bc-8495-c8a2d654f425)
 - State filter to view:
   - Seats won by each alliance in a specific state
   - Donut chart for seat share
@@ -38,6 +41,8 @@ The project covers 6 key dashboards, each designed to provide different layers o
 - Allows comparative analysis within states
 
 ### 🏷️ 4. Constituency Analysis
+
+![Screenshot 2025-06-24 224850](https://github.com/user-attachments/assets/87eb8aae-1f89-49b1-85da-34c88cd0d9dc)
 - In-depth KPIs for any selected constituency:
   - Total Votes
   - EVM vs Postal Votes
@@ -45,6 +50,7 @@ The project covers 6 key dashboards, each designed to provide different layers o
   - Vote Shares and Margins
 
 ### 📊 5. Details Grid (Raw Data Explorer)
+
 - Tabular view of:
   - Constituency-wise results
   - Candidate and party information
@@ -54,6 +60,7 @@ The project covers 6 key dashboards, each designed to provide different layers o
   - Data export as Excel
 
 ### 🧭 6. Landing Page (Navigation Hub)
+- ![Screenshot 2025-06-24 224804](https://github.com/user-attachments/assets/792d96b2-d956-4229-8ea9-390bb1bd028b)
 - Central access to all dashboards
 - Home and Navigation buttons
 - Interactive UI with color-coding and responsive design
@@ -88,8 +95,6 @@ The project covers 6 key dashboards, each designed to provide different layers o
 ---
 
 ## 📷 Screenshots
-![Screenshot 2025-06-24 224804](https://github.com/user-attachments/assets/792d96b2-d956-4229-8ea9-390bb1bd028b)
-![Screenshot 2025-06-24 224825](https://github.com/user-attachments/assets/c5b4a996-fc68-4043-8cb0-d661de5ad9e0)
-![Screenshot 2025-06-24 224834](https://github.com/user-attachments/assets/8f72cb38-4bc7-4824-8271-049511833a43)
-![Screenshot 2025-06-24 224842](https://github.com/user-attachments/assets/d7d072df-7198-43bc-8495-c8a2d654f425)
-![Screenshot 2025-06-24 224850](https://github.com/user-attachments/assets/87eb8aae-1f89-49b1-85da-34c88cd0d9dc)
+
+
+
